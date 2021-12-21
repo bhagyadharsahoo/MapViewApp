@@ -1,0 +1,6 @@
+framework module Pods_MapViewAssessment {
+  umbrella header "Pods-MapViewAssessment-umbrella.h"
+
+  export *
+  module * { export * }
+}
